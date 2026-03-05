@@ -1,0 +1,14 @@
+{
+  "name": "vastraa-website",
+  "version": "1.0.0",
+  "description": "Vastraa Saree Tailor - Custom Saree Stitching Website",
+  "type": "module",
+  "scripts": {
+    "dev": "npx vite",
+    "build": "npx vite build",
+    "preview": "npx vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.21"
+  }
+}
